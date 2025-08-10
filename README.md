@@ -11,6 +11,26 @@ The repo is organized into multiple folders, each focusing on a specific library
 
 ---
 
+# CSS Grid Generator
+
+[CSS Grid Generator](https://cssgridgenerator.io/) is a tool that helps developers create custom CSS grid layouts quickly and easily.  
+It allows you to specify the number of **columns**, **rows**, and **gutter size** to generate a responsive grid layout.
+
+## Repository Structure
+
+This repository contains the following folders and files:
+
+### 1. `simple Grid`
+Implementation of a grid layout using **HTML** and **CSS** only.
+
+### 2. `tailwind grid`
+Implementation of a grid layout using **HTML** and **JSX** with **Tailwind CSS** utility classes.
+
+### 3. `Grid generator.pdf`
+A PDF document containing explanations about the CSS Grid Generator website and instructions on how to use it.
+
+---
+
 ### Swiper
 
 The **swiper** folder covers the [Swiper](https://swiperjs.com/) library — a modern mobile-friendly slider library.
