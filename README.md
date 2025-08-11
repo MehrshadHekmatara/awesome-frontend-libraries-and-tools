@@ -31,6 +31,25 @@ A PDF document containing explanations about the CSS Grid Generator website and 
 
 ---
 
+# CSS Loaders
+
+[**CSS Loaders**](https://css-loaders.com/) is a collection of over **600 pure CSS loading animations**, all created with single-element HTML and no JavaScript.  
+It includes a wide variety of loader styles — dots, bars, spinners, shapes, loops, waves, and even 3D animations — making it easy to find a loader for any design need.
+
+---
+
+## 📂 Folder Contents
+
+- **CSS Loaders.pdf** – Short documentation explaining the website’s functionality and usage.
+- **index.html** – Example HTML file showcasing selected loaders from the website.
+- **style.css** – CSS styles for the loaders included in the HTML file.
+- 
+## 📌 About the Website
+The website provides ready-to-use CSS loaders with simple HTML structures.  
+You can copy the code for any loader you like and integrate it directly into your projects without additional dependencies.
+
+---
+
 ### Swiper
 
 The **swiper** folder covers the [Swiper](https://swiperjs.com/) library — a modern mobile-friendly slider library.
