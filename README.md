@@ -36,8 +36,6 @@ A PDF document containing explanations about the CSS Grid Generator website and 
 [**CSS Loaders**](https://css-loaders.com/) is a collection of over **600 pure CSS loading animations**, all created with single-element HTML and no JavaScript.  
 It includes a wide variety of loader styles — dots, bars, spinners, shapes, loops, waves, and even 3D animations — making it easy to find a loader for any design need.
 
----
-
 ## 📂 Folder Contents
 
 - **CSS Loaders.pdf** – Short documentation explaining the website’s functionality and usage.
