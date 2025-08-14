@@ -48,6 +48,25 @@ You can copy the code for any loader you like and integrate it directly into you
 
 ---
 
+# Google Fonts
+
+[Google Fonts](https://fonts.google.com/) is a free and open-source library containing over 1,500 font families that can be easily integrated into websites and applications.  
+It offers a wide variety of typefaces, supports multiple languages, and provides an easy way to preview and customize fonts before embedding them in your project.
+
+## 📂 Folder Contents
+
+- **Google Fonts.pdf** — Overview of the Google Fonts website and instructions on how to use it.  
+- **index.html** — Example HTML file that uses a Google Font.  
+- **style.css** — CSS file containing the font import and styling rules.
+
+## 📄 About the Example
+
+The included example demonstrates:
+1. How to import a font from Google Fonts.
+2. How to apply the font to text elements in HTML using CSS.
+
+---
+
 ### Swiper
 
 The **swiper** folder covers the [Swiper](https://swiperjs.com/) library — a modern mobile-friendly slider library.
