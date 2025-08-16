@@ -67,6 +67,22 @@ The included example demonstrates:
 
 ---
 
+# Ion Icons
+
+[Ionicons](https://ionic.io/ionicons) is a free and open-source icon set built by the Ionic team.  
+It contains around **1,300 high-quality icons** that are optimized for web, iOS, Android, and desktop applications.  
+Icons come in multiple styles such as **outline**, **filled**, and **sharp**, making it easy to integrate them into any project.
+
+## 📂 Folder Contents
+
+- **Ion icons.pdf** — A short guide that explains the general usage of the Ionicons website.  
+- **index.html** & **style.css** — A simple example demonstrating how to include and use Ionicons in a project.  
+
+## 💡 About the Example
+The provided HTML and CSS files show how to load Ionicons and display some of the available icons directly on a webpage.
+
+---
+
 ### Swiper
 
 The **swiper** folder covers the [Swiper](https://swiperjs.com/) library — a modern mobile-friendly slider library.
